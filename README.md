@@ -1,5 +1,5 @@
 #  
-![Hi](https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif) Hello, I'm Sartaj Ahmad!
+Hello, I'm Sartaj Ahmad!
 
 ## About Me
 
