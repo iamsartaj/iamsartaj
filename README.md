@@ -1,5 +1,5 @@
-#  ![Hi](https://github.com/user-attachments/assets/e58d222b-7bbe-441a-a41f-59b62e9707fd)
-Hello, I'm Sartaj Ahmad!
+#  
+![Hi](https://github.com/user-attachments/assets/e58d222b-7bbe-441a-a41f-59b62e9707fd) Hello, I'm Sartaj Ahmad!
 
 ## About Me
 
