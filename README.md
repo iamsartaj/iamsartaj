@@ -6,7 +6,7 @@ Hello, I'm Sartaj Ahmad!
 ```javascript
 const sartajAhmad = {
   pronouns: "he" | "him",
-  works: "Learner in life" | "Aspiring full stack developer",
+  works: "Learner in life" | "Frontend developer",
   desc: ["Observant", "Passionate", "Perseverant"],
   knownLanguages: ["JavaScript", "Java"],
   experiencedIn: ["MongoDB", "MySQL", "Git", "Postman"],       
