@@ -9,7 +9,7 @@ const sartajAhmad = {
   works: "Learner in life" | "Frontend developer",
   desc: ["Observant", "Passionate", "Perseverant"],
   knownLanguages: ["JavaScript", "Java", "Python"],
-  experiencedIn: ["MongoDB", "MySQL", "Git", "Postman"],       
+  experiencedIn: ["React", "MongoDB", "MySQL", "Git", "Postman"],       
   contactDetails: {
                   email: "sartajahmadks@gmail.com",
                   linkedIn: "iamsartaj"
